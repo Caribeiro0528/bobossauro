@@ -1,7 +1,7 @@
 # Bobossauro Rex 🦖💾
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1563289999-4a4d4e6d8d8d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F9pv679dhpqoe1.jpeg" 
        alt="T-Rex olhando feio pro monitor" 
        width="420"/>
   <br><br>
@@ -21,6 +21,7 @@
       
 ## Comportamento típico do Bobossauro Rex
 
+```bash
    ___
   /   \
  | O O |
